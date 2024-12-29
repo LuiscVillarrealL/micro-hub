@@ -14,7 +14,7 @@ This project is a multi-service architecture built using Spring Boot and Docker.
 
 Here's an overview of the architecture:
 
-![Architecture Diagram](link-to-diagram.png)
+![Architecture Diagram](https://github.com/LuiscVillarrealL/micro-hub/blob/main/Media/Arquitecture.drawio.png)
 
 ## How to Get Started
 
